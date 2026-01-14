@@ -1,6 +1,14 @@
 # HueBridgePro-Rooting
 Informations about the rooting for Philips Hue Bridge Pro (`BSB003`).
 
+# Platine / PCB
+
+### Front
+![Front](Pictures/PCB_Front.png)
+
+### Back
+![Back](Pictures/PCB_Back.png)
+
 # UART
 **Baudrate:** `921600`
 
