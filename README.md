@@ -4,6 +4,8 @@ Informations about the rooting for Philips Hue Bridge Pro (`BSB003`).
 # UART
 **Baudrate:** `921600`
 
+![UART](Pictures/PCB_UART.png)
+
 # First Hello
 ```
 AOCPU: configure PMP for memory 0xf7018000 ~ 0xf7023c00
