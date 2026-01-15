@@ -29,6 +29,12 @@ Informations about the rooting for Philips Hue Bridge Pro (`BSB003`).
 
 ![UART](Pictures/PCB_UART.png)
 
+# JTAG
+> [!WARNING]
+> I think its an JTAG connector (upside down, rotated), but its not confirmed. I do not have an adapter/connector to read the interface.
+
+![JTAG](Pictures/PCB_JTAG.png)
+
 # First Hello
 ```
 AOCPU: configure PMP for memory 0xf7018000 ~ 0xf7023c00
